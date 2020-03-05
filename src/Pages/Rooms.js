@@ -1,5 +1,6 @@
 import React from "react";
+import Hero from "../Components/Hero";
 
 export default function Rooms() {
-  return <div>hello froom room page</div>;
+  return <Hero hero="roomsHero" />;
 }
