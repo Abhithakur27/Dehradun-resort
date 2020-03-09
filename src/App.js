@@ -7,6 +7,7 @@ import Rooms from "./Pages/Rooms";
 import SingleRoom from "./Pages/SingleRoom";
 import Error from "./Pages/Error";
 import Navbar from "./Components/Navbar";
+import Banner from "./Components/Banner";
 
 export default class App extends Component {
   render() {
